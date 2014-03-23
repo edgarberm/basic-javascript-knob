@@ -21,9 +21,9 @@ Now you only need declarate a variable like a new Knob and pass the container an
 
 ```
 var knob = new Knob( 'container', 'knob_input' );
-knob.setCallback( function() { setVolume(); } );
+knob.setCallback( function() { someMethod(); } );
 
-function setVolume() {
+function someMethod() {
   ...
 }
 ```

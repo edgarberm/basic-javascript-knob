@@ -25,4 +25,4 @@ function setVolume() {
 ```
 
 
-You can see the demo [here](file:///Users/BuiltByEdgar/Documents/Proyectos/LAB/HTML5%20Canvas%20Knob/index.html).
+You can see the demo [here](http://www.builtbyedgar.com/blog/examples/pure-javascript-knob/knob01.html).

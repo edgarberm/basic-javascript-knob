@@ -16,6 +16,7 @@ Some like this:
 *The knob size depends to the container size.
 
 
+
 Now you only need declarate a variable like a new Knob and pass the container and output object id's to the constructor.
 
 ```
@@ -30,6 +31,8 @@ function setVolume() {
 
 You can see the demo [here](http://www.builtbyedgar.com/blog/examples/pure-javascript-knob/knob01.html).
 
-##TODO: 
+
+
+####TODO: 
 - Methods to customize the knob.
 

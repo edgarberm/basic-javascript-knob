@@ -9,7 +9,7 @@ First, you need a div container and optionally an input object (type=text) for s
 Some like this:
 
 ```
-<div id="container" style="width: 300px; height: 300px; margin-top: 100px; margin-left: 100px;"></div>
+<div id="container" style="width: 300px; height: 300px;"></div>
 <input id="knob_input" type="text">
         
 ```
